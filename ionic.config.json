@@ -1,0 +1,7 @@
+{
+  "name": "Pukemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
